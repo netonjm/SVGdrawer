@@ -15,7 +15,6 @@ using Microsoft.Xna.Framework.Graphics;
 using LvLEditor.Windows;
 #endregion
 
-using Cocos2D;
 using Microsoft.Xna.Framework.Content;
 
 namespace LvLEditor.Windows

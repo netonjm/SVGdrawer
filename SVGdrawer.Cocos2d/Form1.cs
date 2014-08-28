@@ -18,7 +18,7 @@ namespace LvLEditor.Windows
     public partial class Form1 : Form
     {
 
-         Game1 game;
+        // Game1 game;
 
         public Form1()
         {
@@ -26,7 +26,7 @@ namespace LvLEditor.Windows
 
             //GraphicsDeviceManager rrr = new GraphicsDeviceManager();
 
-            game = new Game1(spinningTriangleControl1);
+            //game = new Game1(spinningTriangleControl1);
 
             vertexColor1b.SelectedIndex = 7;
             vertexColor2b.SelectedIndex = 5;
